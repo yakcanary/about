@@ -17,7 +17,9 @@ Fingerprint:
 
 ## Other websites
 
-- https://keybase.io/yakcanary
+- Keybase.io
+  - http://fncuwbiisyh6ak3i.onion/yakcanary
+  - https://keybase.io/yakcanary
 
 [yakcanary.gpg]: https://raw.githubusercontent.com/yakcanary/about/master/yakcanary.gpg
 
