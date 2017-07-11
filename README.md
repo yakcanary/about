@@ -1,9 +1,13 @@
 
-## GPG Public key fingerprint
+## GPG Public Key
+
+Fingerprint:
 
 ```
 7232 F2FE BABF F76E 1759  A58D 254B 198D 938F B72D
 ```
+
+[Download][yakcanary.gpg]
 
 ## Github Signing Key
 
@@ -14,4 +18,6 @@
 ## Other websites
 
 - https://keybase.io/yakcanary
+
+[yakcanary.gpg]: https://raw.githubusercontent.com/yakcanary/about/master/yakcanary.gpg
 
