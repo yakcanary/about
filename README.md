@@ -29,7 +29,7 @@ Fingerprint:
   - yak_canary at protonmail.com
     - [key][yak_canary_protonmail.gpg]
 - Email (plain)
-  - yakcanary at protonmail.com
+  - yak_canary at protonmail.com
   - yakcanary at paranoid.email
 
 [yakcanary.gpg]: https://raw.githubusercontent.com/yakcanary/about/master/yakcanary.gpg
