@@ -21,5 +21,17 @@ Fingerprint:
   - http://fncuwbiisyh6ak3i.onion/yakcanary
   - https://keybase.io/yakcanary
 
+## Contacts
+
+- Email (encrypted)
+  - yakcanary at 4096.email
+    - [key][yakcanary.gpg]
+  - yak_canary at protonmail.com
+    - [key][yak_canary_protonmail.gpg]
+- Email (plain)
+  - yakcanary at protonmail.com
+  - yakcanary at paranoid.email
+
 [yakcanary.gpg]: https://raw.githubusercontent.com/yakcanary/about/master/yakcanary.gpg
+[yak_canary_protonmail.gpg]: https://raw.githubusercontent.com/yakcanary/about/master/yak_canary_protonmail.gpg
 
